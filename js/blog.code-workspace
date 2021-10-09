@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../blog_backend"
+		},
+		{
+			"path": "../../../sam-project"
+		},
+		{
+			"path": "../../../blog_backend_sam_module"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
