@@ -97,7 +97,7 @@ function updateItem(visitType, num){
                 }
         })
 };
-
+// main code//
 var now=new Date()
 fixDate(now)
 now.setTime(now.getTime() + 24 * 60 * 60 * 1000)
